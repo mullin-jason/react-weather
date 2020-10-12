@@ -1,6 +1,6 @@
 # Demo
 
-![](https://j.gifs.com/81Jm63.gif)
+<img src="https://j.gifs.com/81Jm63.gif" width="300" height="300" />
 
 ## Available Scripts
 
