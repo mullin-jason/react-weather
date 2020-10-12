@@ -1,6 +1,6 @@
 # Demo
 
-![Alt Text](https://j.gifs.com/81Jm63.gif)
+![](https://j.gifs.com/81Jm63.gif)
 
 ## Available Scripts
 
