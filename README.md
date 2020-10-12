@@ -1,6 +1,6 @@
 # Demo
 
-![Alt Text](https://gifs.com/gif/weahter-app-81Jm63))
+![Alt Text](https://gifs.com/gif/weahter-app-81Jm63)
 
 ## Available Scripts
 
