@@ -1,3 +1,3 @@
 # Demo
 
-+<img src="/art/gif.gif?raw=true" width="200px">>
++<img src="/src/art/gif.gif?raw=true" width="200px">>
